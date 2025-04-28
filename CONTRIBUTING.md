@@ -1,4 +1,3 @@
-# Contributing
 
 * use the development branch
 * Keep the script POSIX compliant as defined [here](https://pubs.opengroup.org/onlinepubs/9699919799/)
@@ -8,8 +7,6 @@
 
 * Feel free to give yourself a file in the `credits` folder, and add yourself to the table in the README :)
 
-
-# Shells
 
 A non-comprehensive list of shells to test the script with
 
