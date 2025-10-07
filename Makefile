@@ -5,8 +5,6 @@ DOCDIR=${PREFIX}/share/doc/ytfzf
 MANDIR=${PREFIX}/share/man
 LICENSEDIR=${PREFIX}/share/licenses/ytfzf
 
-YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
-
 .DEFAULT_GOAL := default
 
 all:
